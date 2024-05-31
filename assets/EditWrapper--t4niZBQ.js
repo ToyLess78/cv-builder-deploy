@@ -1,0 +1,1 @@
+import{j as s,ao as e,W as n}from"./index-XqE_m-q9.js";const m=({preview:r,edit:a,onSubmit:t,width:i="70%"})=>s.jsxs("div",{className:e.wrapper,children:[r,s.jsxs("form",{className:e.form,onSubmit:t,style:{width:i},children:[a,s.jsx(n,{type:"submit",children:"Save Changes"})]})]});export{m as E};
